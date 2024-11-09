@@ -4,7 +4,7 @@ This repository contains my deliverables for the **Introduction to Network Scien
 
 ### About the Course
 
-- **Instructor**: [Michel Starnini](https://scholar.google.com/citations?user=duBif0oAAAAJ)
+- **Instructor**: [Carlos Castillo](https://chato.cl/)
 - **Institution**: Universitat Pompeu Fabra, Barcelona  
 - **Link to Course Materials**: [Network Science Course](https://github.com/chatox/networks-science-course/tree/master)
 
